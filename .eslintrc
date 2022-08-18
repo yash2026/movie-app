@@ -25,6 +25,7 @@
     "arrow-body-style": [0],
     "prefer-arrow-callback": [0],
     "react/function-component-definition": "off",
-    "no-console": "off"
+    "no-console": "off",
+    "import/no-unresolved": "warn"
   }
 }
